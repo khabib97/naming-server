@@ -6,7 +6,7 @@ This is a submodule. For better underesting visit main project repo:
 
 https://github.com/khabib97/spring-cloud-microservice-interaction
 
-Nameing server is created using netflix-eureka-server. Currency Exchange Service and Currency Conversion Service register them to Naming Server as eureka-client. 
+Naming server is created using netflix-eureka-server. Currency Exchange Service and Currency Conversion Service register them to Naming Server as eureka-client. 
 
 Using `feign client` currency conversion service calls currency exchange service. 
 
